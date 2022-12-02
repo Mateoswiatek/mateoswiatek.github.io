@@ -14,7 +14,7 @@ Swój rozwój zawodowy wiążę z Mechatroniką oraz AI*** <br />
 ## Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie
 - Poziom wykształcenia: Inżynier
 - 10.2022 – obecnie		
-- Kierunek: Informatyki i Systemów Inteligentnych
+- Kierunek: Informatyka i Systemy Inteligentne
 
 ## Zespół Szkół Elektryczno-Elektronicznych im. Maksymiliana Tytusa Hubera w Szczecinie	
 - Poziom wykształcenia: Technik
