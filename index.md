@@ -1,3 +1,4 @@
+![<img src="Profilowe.jpg" width="2"/>](Profilowe.jpg)
 
 Jestem absolwentem Technikum na kierunku Mechatronika.
 Pierwsze doświadczenie zdobywałem już w szkole średniej.
