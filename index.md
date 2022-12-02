@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/ZWnhY9T.png" width="150" height="280">
+<img src="https://github.com/Mateoswiatek/mateoswiatek.github.io/blob/b2a3b898f6c9872e7b9a72d833148ebcca9b7b34/Profilowe.png" width="200" height="250">
 
 Jestem absolwentem Technikum na kierunku Mechatronika.
 Pierwsze doświadczenie zdobywałem już w szkole średniej.
