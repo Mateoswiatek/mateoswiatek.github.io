@@ -38,7 +38,7 @@ Swój rozwój zawodowy wiążę z Mechatroniką oraz AI*** <br />
   - Wykonywanie płytek PCB
 
 # Osiągnięcia
-- Tytuł **laureata** Olimpiady Innowacji Technicznych i Wynalazczości blok A – innowacje techniczne,
+- Tytuł **laureata** Olimpiady Innowacji Technicznych i Wynalazczości 2022 ROK blok A – innowacje techniczne kategoria R – Pomysł Techniczny,
 - Tytuł **finalisty** XLV Ogólnopolskiej Olimpiady Wiedzy Elektrycznej i Elektronicznej w grupie mechatronicznej 
 
 # Zainteresowania
