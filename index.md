@@ -1,4 +1,4 @@
-![<img src="Profilowe.jpg" width="2"/>](Profilowe.jpg)
+![<img src="Profilowe.png" width="100"/>](Profilowe.png)
 
 Jestem absolwentem Technikum na kierunku Mechatronika.
 Pierwsze doświadczenie zdobywałem już w szkole średniej.
