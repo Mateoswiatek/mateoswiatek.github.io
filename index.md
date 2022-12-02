@@ -1,9 +1,9 @@
 **"Jedyną pewną metodą unikania porażek jest nie mieć żadnych nowych pomysłów."** <br />
 ~Albert Einstein <br />
 
-Jestem absolwentem Technikum na kierunku Mechatronika. <br />
+***Jestem absolwentem Technikum na kierunku Mechatronika. <br />
 Pierwsze doświadczenie zdobywałem już w szkole średniej. <br />
-Swój rozwój zawodowy wiążę z Mechatroniką oraz AI <br />
+Swój rozwój zawodowy wiążę z Mechatroniką oraz AI*** <br />
 
 # Projekty
 - [SafeDrive](https://youtu.be/f3RRo53PAh8)
