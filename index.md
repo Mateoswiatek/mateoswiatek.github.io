@@ -1,4 +1,4 @@
-<img src="https://github.com/Mateoswiatek/mateoswiatek.github.io/blob/b2a3b898f6c9872e7b9a72d833148ebcca9b7b34/Profilowe.png" width="200" height="250">
+<img src="https://github.com/Mateoswiatek/mateoswiatek.github.io/blob/f5eb1162dc303b44d7ce506c7dd2dfc8ea2c96e3/Profilowe.jpg" width="200" height="250">
 
 **"Jedyną pewną metodą unikania porażek jest nie mieć żadnych, nowych pomysłów."** <br />
 ~Albert Einstein <br />
