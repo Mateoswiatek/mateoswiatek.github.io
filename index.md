@@ -1,11 +1,11 @@
 <img src="https://github.com/Mateoswiatek/mateoswiatek.github.io/blob/b2a3b898f6c9872e7b9a72d833148ebcca9b7b34/Profilowe.png" width="200" height="250">
 
-Jestem absolwentem Technikum na kierunku Mechatronika.
-Pierwsze doświadczenie zdobywałem już w szkole średniej.
-Swój rozwój zawodowy wiążę z Mechatroniką oraz AI
+**"Jedyną pewną metodą unikania porażek jest nie mieć żadnych, nowych pomysłów."** <br />
+~Albert Einstein <br />
 
-"Jedyną pewną metodą unikania porażek jest nie mieć żadnych, nowych pomysłów." <br />
-~Albert Einstein
+Jestem absolwentem Technikum na kierunku Mechatronika. <br />
+Pierwsze doświadczenie zdobywałem już w szkole średniej. <br />
+Swój rozwój zawodowy wiążę z Mechatroniką oraz AI <br />
 
 # Projekty
 - [SafeDrive](https://youtu.be/f3RRo53PAh8)
