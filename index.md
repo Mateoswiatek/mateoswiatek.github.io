@@ -7,7 +7,9 @@ Swój rozwój zawodowy wiążę z Mechatroniką oraz AI*** <br />
 
 # Projekty
 - [SafeDrive](https://youtu.be/f3RRo53PAh8)
+- [FriendBy](https://github.com/AGH-Narzedzia-Informatyczne-2022-2023/FriendBy)
 - DigitalTwin IDS AGH
+
 
 # Edukacja <br>
 
