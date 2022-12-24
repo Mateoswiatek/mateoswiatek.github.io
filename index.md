@@ -45,6 +45,7 @@ Swój rozwój zawodowy wiążę z Mechatroniką oraz AI*** <br />
 
 # Zainteresowania
 - Elektronika,
+- Programowanie PLC
 - Fotografia, 
 - Sporty zimowe,
 - Muzyka poważna,
