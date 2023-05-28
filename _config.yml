@@ -1,7 +1,7 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: <img src="https://user-images.githubusercontent.com/115046087/205402311-74a1391e-6d36-4072-9256-8413b1f06ba2.jpg" width="200" height="250"> <br /> CV Mateusz Świątek
+title: <img src="https://github.com/Mateoswiatek/mateoswiatek.github.io/blob/main/agh%204.jpg" width="200" height="250"> <br /> CV Mateusz Świątek
 description: Dziwne, u mnie działa, próbowaleś włączyć i wyłączyć?
 
 
